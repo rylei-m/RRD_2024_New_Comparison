@@ -1,0 +1,92 @@
+Differences:
+--- +++ @@ -1,2 +1,2 @@-{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+-{\f40\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Univers LT Std 45 Light;}{\f41\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Mark OT;}
++{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
++{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f40\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0403020202020204}Univers LT Std 45 Light;}{\f41\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0504020201010104}Mark OT;}
+@@ -6,5 +6,3 @@-{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f42\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+-{\f43\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f45\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f46\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f47\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+-{\f48\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f49\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f50\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f42\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+-{\f43\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f45\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f46\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f47\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+-{\f48\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f49\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f50\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
++{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f43\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
++{\f44\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f46\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f47\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f48\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
++{\f49\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f50\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f51\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+@@ -33 +31 @@-\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red34\green30\blue31;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1
++\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red181\green0\blue18;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1
+@@ -38,3 +36,3 @@-Normal Table;}}{\*\rsidtbl \rsid6428461\rsid8875071\rsid9654387\rsid10030021\rsid11942769\rsid13655047}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
+-{\operator Austin Stewart}{\creatim\yr2023\mo3\dy21\hr15\min23}{\revtim\yr2023\mo3\dy27\hr14\min50}{\version6}{\edmins2}{\nofpages1}{\nofwords24}{\nofchars138}{\nofcharsws161}{\vern107}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/w
+-ordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
++Normal Table;}}{\*\rsidtbl \rsid3045604\rsid6717303\rsid9907371\rsid15737776}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Austin Stewart}
++{\creatim\yr2023\mo3\dy21\hr13\min17}{\revtim\yr2023\mo3\dy28\hr12\min21}{\version4}{\edmins3}{\nofpages1}{\nofwords358}{\nofchars2047}{\nofcharsws2401}{\vern107}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
++\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+@@ -42 +40 @@-\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot9654387 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
++\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot3045604 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+@@ -46,5 +44,57 @@-\af40\afs20 \ltrch\fcs0 \f41\fs20\cf17\insrsid13655047\charrsid9654387 \hich\af41\dbch\af31505\loch\f41 All investing is subject to risk, including the possible loss of the money you invest. }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
+-\f41\fs20\insrsid13655047\charrsid9654387 
+-\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx9720\wrapdefault\hyphpar0\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af40\afs14 \ltrch\fcs0 \f41\fs14\cf1\insrsid13655047\charrsid9654387 
+-\par \loch\af41\dbch\af31505\hich\f41 \'a9\loch\f41  <CFM_Year> The Vanguard Group, Inc. All rights reserved.
+-\par \hich\af41\dbch\af31505\loch\f41 IDVFIL 032021
++\ab\af40\afs24 \ltrch\fcs0 \b\f41\fs24\cf17\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Information for reporting your <RRB_5500_Plan_Year_rtf> plan year results
++\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 
++\par \hich\af41\dbch\af31505\loch\f41 Dear Plan Administrator,
++\par 
++\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 
++This letter and its enclosures contain information about your retirement plan assets at Vanguard that will help you complete IRS Form 5500. 
++\par }{\rtlch\fcs1 \af40\afs16 \ltrch\fcs0 \f41\fs16\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 \b\f41\fs20\cf17\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Filing requirements and deadlines}{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 
++\par }{\rtlch\fcs1 \af40\afs16 \ltrch\fcs0 \f41\fs16\cf1\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 In general, as the administrator or sponsor of an Individual 401(k), you must f\hich\af41\dbch\af31505\loch\f41 
++ile Form 5500-SF (a simplified form for small plans invested in certain types of assets), or Form 5500-EZ (if eligible) annually by the last day of the seventh month following the end of the plan year. For example, if your plan year is the calendar year, 
++\hich\af41\dbch\af31505\loch\f41 y\hich\af41\dbch\af31505\loch\f41 \hich\f41 ou must file by July 31 of the following year. (Certain \'93\loch\f41 \hich\f41 one-participant\'94\loch\f41 
++ plans may not be required to file an annual return if plan assets are $250,000 or less.) (The IRS and United States Department of Labor may announce filing deadline extensions under\hich\af41\dbch\af31505\loch\f41  \hich\af41\dbch\af31505\loch\f41 
++special circumstances such as presidentially declared disasters. See irs.gov and efast.dol.gov for announcements regarding special extensions.) }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 
++\par }{\rtlch\fcs1 \af40\afs16 \ltrch\fcs0 \f41\fs16\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 \b\f41\fs20\cf17\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 What's included in this Package
++\par }{\rtlch\fcs1 \ab\af40\afs16 \ltrch\fcs0 \b\f41\fs16\insrsid9907371\charrsid15737776 
++\par }\pard \ltrpar\ql \fi-360\li360\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\insrsid9907371 \loch\af3\dbch\af31505\hich\f3 \'b7}{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 
++\f41\fs20\insrsid9907371\charrsid3045604 \tab }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Financial reports for the <RRB_5500_Plan_Year_rtf> plan year.  You'll find 
++\hich\af41\dbch\af31505\loch\f41 a}{\rtlch\fcs1 \ai\af40\afs20 \ltrch\fcs0 \i\f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 
++ Statement of Net Assets Available for Benefits, Statement of Changes in Net Assets Available for Benefits, }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 and}{\rtlch\fcs1 \ai\af40\afs20 
++\ltrch\fcs0 \i\f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41  Transaction Summaries by Participant}{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 
++.  Note: If you need underlying participant transaction details or contribution information made after the \hich\af41\dbch\af31505\loch\f41 end of the plan year, consult your year-end and quarterly statements.
++\par }{\rtlch\fcs1 \ab\af40\afs16 \ltrch\fcs0 \b\f41\fs16\insrsid9907371\charrsid15737776 
++\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 \b\f41\fs20\cf17\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Information you\hich\f41 \rquote \loch\f41 
++ll need to complete the form
++\par }{\rtlch\fcs1 \ab\af40\afs16 \ltrch\fcs0 \b\f41\fs16\cf17\insrsid9907371\charrsid15737776 
++\par }\pard \ltrpar\ql \fi-360\li360\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\insrsid9907371 \loch\af3\dbch\af31505\hich\f3 \'b7}{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 
++\f41\fs20\insrsid9907371\charrsid3045604 \tab }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 
++Three-digit plan number. This is a number you assign to each plan that you sponsor. These numbers are usually assigned in consecutive ord\hich\af41\dbch\af31505\loch\f41 er starting with 001 and can be found on your adoption agreement.
++\par 
++\par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\insrsid9907371 \loch\af3\dbch\af31505\hich\f3 \'b7}{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \tab }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
++\f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Plan characteristic codes. For the Vanguard Individual 401(k) Plan, the codes are 2E, 3D, and 2J.}{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 
++\b\f41\fs20\cf17\insrsid9907371\charrsid3045604 
++\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af40\afs16 \ltrch\fcs0 \b\f41\fs16\cf17\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 \b\f41\fs20\cf17\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 How to get assistance
++\par }\pard \ltrpar\ql \fi-360\li360\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \ab\af40\afs16 \ltrch\fcs0 \b\f41\fs16\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 If you need help completing your form, follow the instructions be\hich\af41\dbch\af31505\loch\f41 low:
++\par }{\rtlch\fcs1 \af3\afs16 \ltrch\fcs0 \f41\fs16\cf1\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid9907371 \loch\af3\dbch\af31505\hich\f3 \'b7}{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 \tab }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
++\f41\fs20\cf1\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 For Form 5500-SF: Visit }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 
++HYPERLINK "www.efast.dol.gov"}{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid3045604\charrsid3045604 {\*\datafield 
++00d0c9ea79f9bace118c8200aa004ba90b02000000010000000303000000000000c0000000000000460000120000007777772e65666173742e646f6c2e676f7600ffffadde0000000000000000000000000000000000000000000000006500}}}{\fldrslt {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
++\f41\fs20\ul\cf2\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 www.efast.dol.gov}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 
++\hich\af41\dbch\af31505\loch\f41  or call the EFAST2 Help Desk at 866-463-3278.}{\rtlch\fcs1 \ai\af40\afs20 \ltrch\fcs0 \i\f41\fs20\cf1\insrsid9907371\charrsid3045604 
++\par }{\rtlch\fcs1 \ai\af40\afs16 \ltrch\fcs0 \i\f41\fs16\cf1\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid9907371 \loch\af3\dbch\af31505\hich\f3 \'b7}{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f41\fs20\cf1\insrsid9907371\charrsid3045604 \tab }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 
++\f41\fs20\cf1\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 For Form 5500-EZ: Call the IRS Help Line at 877-829-5500. You can order Form 5500-EZ and other related forms and publications by visiting irs.gov or calling 800-829-3676.}{
++\rtlch\fcs1 \ai\af40\afs20 \ltrch\fcs0 \i\f41\fs20\cf1\insrsid9907371\charrsid3045604 
++\par }{\rtlch\fcs1 \af40\afs16 \ltrch\fcs0 \f41\fs16\insrsid9907371\charrsid15737776 
++\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Remember to keep this information in your files for future reference.
++
++\par }{\rtlch\fcs1 \af40\afs16 \ltrch\fcs0 \f41\fs16\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 If you have q\hich\af41\dbch\af31505\loch\f41 uestions, call us at <CFM_PHN_Num_Retrmnt>}{\rtlch\fcs1 \ab\af40\afs20 \ltrch\fcs0 
++\b\f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41  }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 <CFM_HRS_SBS>. 
++\par }{\rtlch\fcs1 \af40\afs16 \ltrch\fcs0 \f41\fs16\insrsid9907371\charrsid15737776 
++\par }{\rtlch\fcs1 \af40\afs20 \ltrch\fcs0 \f41\fs20\insrsid9907371\charrsid3045604 \hich\af41\dbch\af31505\loch\f41 Thank you for belonging to the Vanguard community of investors.
+@@ -191,2 +241,2 @@-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000001012
+-bfcced60d901feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
++ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000a03d
++aa0ca261d901feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+
+
+Similarity: 77.95%

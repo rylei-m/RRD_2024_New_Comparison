@@ -1,0 +1,6 @@
+Take w9.pdf provided by Vanguard and run through this solimar to remove security etc
+
+/sol/incoming/rrd/dev/pdoprxxx
+/sol/outgoing/rrd/dev/pdoprxxx
+
+Then in adobe pro shift contents of each page by 10 arrows ;)
